@@ -1,0 +1,74 @@
+span.place-name {
+    display: inline-block;
+    width: 70%;
+}
+  /* Wishlist places list */
+
+div.wishlist-place {
+    margin: 20px;
+}
+  /* General form styles  */
+label {
+    display: inline-block;
+    padding-right: 8px;
+}
+
+a.nav-link {
+    padding-right: 10px;
+}
+
+#add-new-place {
+    background-color: rgb(128, 0, 85);
+    border: rgb(100, 0, 33);
+}
+/* Base styles */
+
+#site-header {
+    background: url('../img/jtree.jpg') 0 0 repeat-x;
+    color: white;
+    padding: 40px 0 40px 0px;
+    text-align: center;
+  }
+  
+  button {
+    margin: 5px 0px 5px 0;
+  }
+  
+  .wishlist-place .place-name {
+    width: 85%;
+    display: inline-block;
+    word-wrap: break-word;
+  }
+  
+  form.visited-form {
+    display: inline-block;
+    width: 10%;
+  }
+  
+  /* Visited places list */
+  
+  span.visited-text {
+    display: inline-block;
+    width: 70%;
+  }
+  
+  span.visited-list-place-name {
+    word-wrap:break-word;
+  }
+  
+  /* place details */
+  
+  .delete {
+    background-color: crimson;
+    border-color: darkred;
+  }
+  
+  /* messages from trip report update form */
+  .info {
+    color: black;
+    background-color: rgb(173, 223, 173);
+    padding: 2px;
+    font-weight: bold;
+  }
+  
+  
